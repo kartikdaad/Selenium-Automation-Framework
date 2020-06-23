@@ -1,0 +1,10 @@
+04/23/2020 10:16:22 PM - LoggingConfig - DEBUG - debug message
+04/23/2020 10:16:22 PM - LoggingConfig - INFO - info message
+04/23/2020 10:16:22 PM - LoggingConfig - ERROR - error message
+04/23/2020 10:16:22 PM - LoggingConfig - WARNING - warning message
+04/23/2020 10:16:22 PM - LoggingConfig - CRITICAL - critical message
+04/23/2020 10:17:27 PM - LoggingConfig - DEBUG - debug message
+04/23/2020 10:17:27 PM - LoggingConfig - INFO - info message
+04/23/2020 10:17:27 PM - LoggingConfig - ERROR - error message
+04/23/2020 10:17:27 PM - LoggingConfig - WARNING - warning message
+04/23/2020 10:17:27 PM - LoggingConfig - CRITICAL - critical message
