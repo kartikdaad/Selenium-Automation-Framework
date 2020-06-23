@@ -1,0 +1,376 @@
+06/14/2020 09:47:14 AM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/14/2020 09:47:14 AM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/14/2020 09:47:25 AM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/14/2020 09:47:25 AM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/14/2020 09:47:25 AM: LoginPage: INFO: Sent data on element with locator: user_email locatorType: id
+06/14/2020 09:47:35 AM: LoginPage: INFO: Element found with locator: user_password and  locatorType: id
+06/14/2020 09:47:35 AM: LoginPage: INFO: Sent data on element with locator: user_password locatorType: id
+06/14/2020 09:47:45 AM: LoginPage: INFO: Element found with locator: commit and  locatorType: name
+06/14/2020 09:47:49 AM: LoginPage: INFO: Clicked on element with locator: commit locatorType: name
+06/14/2020 09:47:59 AM: LoginPage: INFO: Element found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+06/14/2020 09:47:59 AM: LoginPage: INFO: Element present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath
+06/14/2020 09:48:20 AM: LoginPage: INFO: Element not found with locator: Login and  locatorType: link
+06/14/2020 09:48:20 AM: LoginPage: INFO: Cannot click on the element with locator: Login locatorType: link
+06/14/2020 09:48:30 AM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/14/2020 09:48:30 AM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/14/2020 09:48:30 AM: LoginPage: INFO: Sent data on element with locator: user_email locatorType: id
+06/14/2020 09:48:40 AM: LoginPage: INFO: Element found with locator: user_password and  locatorType: id
+06/14/2020 09:48:40 AM: LoginPage: INFO: Sent data on element with locator: user_password locatorType: id
+06/14/2020 09:48:50 AM: LoginPage: INFO: Element found with locator: commit and  locatorType: name
+06/14/2020 09:48:56 AM: LoginPage: INFO: Clicked on element with locator: commit locatorType: name
+06/14/2020 09:48:56 AM: TestStatus: INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+06/14/2020 09:49:06 AM: LoginPage: INFO: Element found with locator: //*[@id='navbar']//span[text()='kartik dad'] and  locatorType: xpath
+06/14/2020 09:49:06 AM: LoginPage: INFO: Element present with locator: //*[@id='navbar']//span[text()='kartik dad'] locatorType: xpath
+06/14/2020 09:49:06 AM: TestStatus: INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+06/14/2020 09:49:06 AM: TestStatus: INFO: test_validLogin ### TEST SUCCESSFUL
+06/15/2020 17:08:36 PM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/15/2020 17:08:37 PM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/15/2020 17:08:47 PM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/15/2020 17:08:47 PM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/15/2020 17:08:47 PM: LoginPage: INFO: Sent data on element with locator: user_email locatorType: id
+06/15/2020 17:08:57 PM: LoginPage: INFO: Element found with locator: user_password and  locatorType: id
+06/15/2020 17:08:57 PM: LoginPage: INFO: Sent data on element with locator: user_password locatorType: id
+06/15/2020 17:09:07 PM: LoginPage: INFO: Element found with locator: commit and  locatorType: name
+06/15/2020 17:09:12 PM: LoginPage: INFO: Clicked on element with locator: commit locatorType: name
+06/15/2020 17:09:33 PM: RegisterCoursesPage: INFO: Element not found with locator: Login and  locatorType: link
+06/15/2020 17:09:33 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: Login locatorType: link
+06/15/2020 17:09:53 PM: RegisterCoursesPage: INFO: Element not found with locator: user_email and  locatorType: id
+06/15/2020 19:18:15 PM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/15/2020 19:18:16 PM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/15/2020 19:18:26 PM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/15/2020 19:18:27 PM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/15/2020 19:18:27 PM: LoginPage: INFO: Sent data on element with locator: user_email locatorType: id
+06/15/2020 19:18:37 PM: LoginPage: INFO: Element found with locator: user_password and  locatorType: id
+06/15/2020 19:18:38 PM: LoginPage: INFO: Sent data on element with locator: user_password locatorType: id
+06/15/2020 19:18:48 PM: LoginPage: INFO: Element found with locator: commit and  locatorType: name
+06/15/2020 19:18:54 PM: LoginPage: INFO: Clicked on element with locator: commit locatorType: name
+06/15/2020 19:19:14 PM: RegisterCoursesPage: INFO: Element not found with locator: Login and  locatorType: link
+06/15/2020 19:19:14 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: Login locatorType: link
+06/15/2020 19:19:35 PM: RegisterCoursesPage: INFO: Element not found with locator: user_email and  locatorType: id
+06/15/2020 19:19:35 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/15/2020 19:19:55 PM: RegisterCoursesPage: INFO: Element not found with locator: user_password and  locatorType: id
+06/15/2020 19:19:55 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/15/2020 19:20:16 PM: RegisterCoursesPage: INFO: Element not found with locator: commit and  locatorType: name
+06/15/2020 19:20:16 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: commit locatorType: name
+06/15/2020 19:20:26 PM: RegisterCoursesPage: INFO: Element found with locator: search-courses and  locatorType: id
+06/15/2020 19:20:26 PM: RegisterCoursesPage: INFO: Sent data on element with locator: search-courses locatorType: id
+06/15/2020 19:20:26 PM: RegisterCoursesPage: INFO: Element found with locator: search-course-button and  locatorType: id
+06/15/2020 19:20:31 PM: RegisterCoursesPage: INFO: Clicked on element with locator: search-course-button locatorType: id
+06/15/2020 19:20:51 PM: RegisterCoursesPage: INFO: Element not found with locator: JavaScript for beginners and  locatorType: name
+06/15/2020 19:20:51 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: JavaScript for beginners locatorType: name
+06/15/2020 19:21:01 PM: RegisterCoursesPage: INFO: Element not found with locator: enroll-button-top and  locatorType: id
+06/15/2020 19:21:01 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: enroll-button-top locatorType: id
+06/15/2020 19:21:21 PM: RegisterCoursesPage: INFO: Element not found with locator: CardNumberField-input-wrapper and  locatorType: class
+06/15/2020 19:21:21 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: CardNumberField-input-wrapper locatorType: class
+06/15/2020 19:21:31 PM: RegisterCoursesPage: INFO: Element not found with locator: exp-date and  locatorType: name
+06/15/2020 19:21:31 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: exp-date locatorType: name
+06/15/2020 19:21:41 PM: RegisterCoursesPage: INFO: Element not found with locator: cvc and  locatorType: name
+06/15/2020 19:21:41 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: cvc locatorType: name
+06/15/2020 19:21:52 PM: RegisterCoursesPage: INFO: Element not found with locator: postal and  locatorType: name
+06/15/2020 19:21:52 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: postal locatorType: name
+06/15/2020 19:22:02 PM: RegisterCoursesPage: INFO: Element not found with locator: agreed_to_terms_checkbox and  locatorType: id
+06/15/2020 19:22:02 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: agreed_to_terms_checkbox locatorType: id
+06/15/2020 19:22:12 PM: RegisterCoursesPage: INFO: Element not found with locator: spc__button-text and  locatorType: class
+06/15/2020 19:22:12 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: spc__button-text locatorType: class
+06/15/2020 19:22:32 PM: RegisterCoursesPage: INFO: Element not found with locator: //div[@class='payment-error-box only-on-mobile'] and  locatorType: xpath
+06/15/2020 19:22:32 PM: RegisterCoursesPage: INFO: Element not present with locator: //div[@class='payment-error-box only-on-mobile'] locatorType: xpath
+06/15/2020 19:22:32 PM: TestStatus: ERROR: ### VERIFICATION FAILED :: + Payment Failed Verified
+06/15/2020 19:22:33 PM: TestStatus: INFO: Screenshot save to directory: C:\Users\Lenovo\workspace_python\Automation_Framework\base\../screenshots/Payment Failed Verified.1592229152546.png
+06/15/2020 19:22:33 PM: TestStatus: ERROR: ### VERIFICATION FAILED :: + Payment has failed 
+06/15/2020 19:22:33 PM: TestStatus: INFO: Screenshot save to directory: C:\Users\Lenovo\workspace_python\Automation_Framework\base\../screenshots/Payment has failed .1592229153121.png
+06/15/2020 19:22:33 PM: TestStatus: ERROR: PaymentTest ### TEST FAILED
+06/15/2020 20:21:57 PM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/15/2020 20:21:57 PM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/15/2020 20:22:07 PM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/15/2020 20:22:07 PM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/15/2020 20:22:08 PM: LoginPage: INFO: Sent data on element with locator: user_email locatorType: id
+06/15/2020 20:22:18 PM: LoginPage: INFO: Element found with locator: user_password and  locatorType: id
+06/15/2020 20:22:18 PM: LoginPage: INFO: Sent data on element with locator: user_password locatorType: id
+06/15/2020 20:22:28 PM: LoginPage: INFO: Element found with locator: commit and  locatorType: name
+06/15/2020 20:22:33 PM: LoginPage: INFO: Clicked on element with locator: commit locatorType: name
+06/15/2020 20:22:53 PM: RegisterCoursesPage: INFO: Element not found with locator: Login and  locatorType: link
+06/15/2020 20:22:53 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: Login locatorType: link
+06/15/2020 20:23:13 PM: RegisterCoursesPage: INFO: Element not found with locator: user_email and  locatorType: id
+06/15/2020 20:23:13 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/15/2020 20:23:33 PM: RegisterCoursesPage: INFO: Element not found with locator: user_password and  locatorType: id
+06/15/2020 20:23:33 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/15/2020 20:23:54 PM: RegisterCoursesPage: INFO: Element not found with locator: commit and  locatorType: name
+06/15/2020 20:23:54 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: commit locatorType: name
+06/15/2020 20:24:04 PM: RegisterCoursesPage: INFO: Element found with locator: search-courses and  locatorType: id
+06/15/2020 20:24:04 PM: RegisterCoursesPage: INFO: Sent data on element with locator: search-courses locatorType: id
+06/15/2020 20:24:04 PM: RegisterCoursesPage: INFO: Element found with locator: search-course-button and  locatorType: id
+06/15/2020 20:24:08 PM: RegisterCoursesPage: INFO: Clicked on element with locator: search-course-button locatorType: id
+06/15/2020 20:24:28 PM: RegisterCoursesPage: INFO: Element not found with locator: JavaScript for beginners and  locatorType: name
+06/15/2020 20:24:28 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: JavaScript for beginners locatorType: name
+06/15/2020 20:24:38 PM: RegisterCoursesPage: INFO: Element not found with locator: enroll-button-top and  locatorType: id
+06/15/2020 20:24:38 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: enroll-button-top locatorType: id
+06/15/2020 20:24:58 PM: RegisterCoursesPage: INFO: Element not found with locator: CardNumberField-input-wrapper and  locatorType: class
+06/15/2020 20:24:58 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: CardNumberField-input-wrapper locatorType: class
+06/15/2020 20:25:08 PM: RegisterCoursesPage: INFO: Element not found with locator: exp-date and  locatorType: name
+06/15/2020 20:25:08 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: exp-date locatorType: name
+06/15/2020 20:25:18 PM: RegisterCoursesPage: INFO: Element not found with locator: cvc and  locatorType: name
+06/15/2020 20:25:18 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: cvc locatorType: name
+06/15/2020 20:25:29 PM: RegisterCoursesPage: INFO: Element not found with locator: postal and  locatorType: name
+06/15/2020 20:25:29 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: postal locatorType: name
+06/15/2020 20:25:39 PM: RegisterCoursesPage: INFO: Element not found with locator: agreed_to_terms_checkbox and  locatorType: id
+06/15/2020 20:25:39 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: agreed_to_terms_checkbox locatorType: id
+06/15/2020 20:25:49 PM: RegisterCoursesPage: INFO: Element not found with locator: spc__button-text and  locatorType: class
+06/15/2020 20:25:49 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: spc__button-text locatorType: class
+06/15/2020 20:26:09 PM: RegisterCoursesPage: INFO: Element not found with locator: //div[@class='payment-error-box only-on-mobile'] and  locatorType: xpath
+06/15/2020 20:26:09 PM: RegisterCoursesPage: INFO: Element not present with locator: //div[@class='payment-error-box only-on-mobile'] locatorType: xpath
+06/15/2020 20:35:43 PM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/15/2020 20:35:43 PM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/15/2020 20:35:53 PM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/15/2020 20:35:53 PM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/15/2020 20:35:53 PM: LoginPage: INFO: Sent data on element with locator: user_email locatorType: id
+06/15/2020 20:36:03 PM: LoginPage: INFO: Element found with locator: user_password and  locatorType: id
+06/15/2020 20:36:03 PM: LoginPage: INFO: Sent data on element with locator: user_password locatorType: id
+06/15/2020 20:36:13 PM: LoginPage: INFO: Element found with locator: commit and  locatorType: name
+06/15/2020 20:36:19 PM: LoginPage: INFO: Clicked on element with locator: commit locatorType: name
+06/15/2020 20:36:39 PM: RegisterCoursesPage: INFO: Element not found with locator: Login and  locatorType: link
+06/15/2020 20:36:39 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: Login locatorType: link
+06/15/2020 20:36:59 PM: RegisterCoursesPage: INFO: Element not found with locator: user_email and  locatorType: id
+06/15/2020 20:36:59 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/15/2020 20:37:19 PM: RegisterCoursesPage: INFO: Element not found with locator: user_password and  locatorType: id
+06/15/2020 20:37:19 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/15/2020 20:37:39 PM: RegisterCoursesPage: INFO: Element not found with locator: commit and  locatorType: name
+06/15/2020 20:37:39 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: commit locatorType: name
+06/15/2020 20:37:49 PM: RegisterCoursesPage: INFO: Element found with locator: search-courses and  locatorType: id
+06/15/2020 20:37:49 PM: RegisterCoursesPage: INFO: Sent data on element with locator: search-courses locatorType: id
+06/15/2020 20:37:49 PM: RegisterCoursesPage: INFO: Element found with locator: search-course-button and  locatorType: id
+06/15/2020 20:37:53 PM: RegisterCoursesPage: INFO: Clicked on element with locator: search-course-button locatorType: id
+06/15/2020 20:38:03 PM: RegisterCoursesPage: INFO: Element found with locator: //a[@href='/p/complete-javascript-guide']/div/div[2] and  locatorType: xpath
+06/15/2020 20:38:03 PM: RegisterCoursesPage: INFO: Clicked on element with locator: //a[@href='/p/complete-javascript-guide']/div/div[2] locatorType: xpath
+06/15/2020 20:38:05 PM: RegisterCoursesPage: INFO: Element found with locator: enroll-button-top and  locatorType: id
+06/15/2020 20:38:15 PM: RegisterCoursesPage: INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/15/2020 20:38:35 PM: RegisterCoursesPage: INFO: Element not found with locator: CardNumberField-input-wrapper and  locatorType: class
+06/15/2020 20:38:35 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: CardNumberField-input-wrapper locatorType: class
+06/15/2020 20:38:45 PM: RegisterCoursesPage: INFO: Element not found with locator: exp-date and  locatorType: name
+06/15/2020 20:38:45 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: exp-date locatorType: name
+06/15/2020 20:38:55 PM: RegisterCoursesPage: INFO: Element not found with locator: cvc and  locatorType: name
+06/15/2020 20:38:55 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: cvc locatorType: name
+06/15/2020 20:39:05 PM: RegisterCoursesPage: INFO: Element not found with locator: postal and  locatorType: name
+06/15/2020 20:39:05 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: postal locatorType: name
+06/15/2020 20:39:05 PM: RegisterCoursesPage: INFO: Element found with locator: agreed_to_terms_checkbox and  locatorType: id
+06/15/2020 20:39:05 PM: RegisterCoursesPage: INFO: Clicked on element with locator: agreed_to_terms_checkbox locatorType: id
+06/15/2020 20:39:05 PM: RegisterCoursesPage: INFO: Element found with locator: spc__button-text and  locatorType: class
+06/15/2020 20:39:05 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: spc__button-text locatorType: class
+06/15/2020 20:39:25 PM: RegisterCoursesPage: INFO: Element not found with locator: //div[@class='payment-error-box only-on-mobile'] and  locatorType: xpath
+06/15/2020 20:39:25 PM: RegisterCoursesPage: INFO: Element not present with locator: //div[@class='payment-error-box only-on-mobile'] locatorType: xpath
+06/15/2020 20:39:25 PM: TestStatus: ERROR: ### VERIFICATION FAILED :: + Payment Failed Verified
+06/15/2020 20:39:27 PM: TestStatus: INFO: Screenshot save to directory: C:\Users\Lenovo\workspace_python\Automation_Framework\base\../screenshots/Payment Failed Verified.1592233765656.png
+06/15/2020 20:39:27 PM: TestStatus: ERROR: ### VERIFICATION FAILED :: + Payment has failed 
+06/15/2020 20:39:27 PM: TestStatus: INFO: Screenshot save to directory: C:\Users\Lenovo\workspace_python\Automation_Framework\base\../screenshots/Payment has failed .1592233767313.png
+06/15/2020 20:39:27 PM: TestStatus: ERROR: PaymentTest ### TEST FAILED
+06/15/2020 23:49:04 PM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/15/2020 23:49:04 PM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/15/2020 23:49:16 PM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/15/2020 23:49:16 PM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/15/2020 23:49:16 PM: LoginPage: INFO: Sent data on element with locator: user_email locatorType: id
+06/15/2020 23:49:26 PM: LoginPage: INFO: Element found with locator: user_password and  locatorType: id
+06/15/2020 23:49:26 PM: LoginPage: INFO: Sent data on element with locator: user_password locatorType: id
+06/15/2020 23:49:36 PM: LoginPage: INFO: Element found with locator: commit and  locatorType: name
+06/15/2020 23:49:41 PM: LoginPage: INFO: Clicked on element with locator: commit locatorType: name
+06/15/2020 23:50:02 PM: RegisterCoursesPage: INFO: Element not found with locator: Login and  locatorType: link
+06/15/2020 23:50:02 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: Login locatorType: link
+06/15/2020 23:50:22 PM: RegisterCoursesPage: INFO: Element not found with locator: user_email and  locatorType: id
+06/15/2020 23:50:22 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/15/2020 23:50:42 PM: RegisterCoursesPage: INFO: Element not found with locator: user_password and  locatorType: id
+06/15/2020 23:50:42 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/15/2020 23:51:02 PM: RegisterCoursesPage: INFO: Element not found with locator: commit and  locatorType: name
+06/15/2020 23:51:02 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: commit locatorType: name
+06/15/2020 23:51:12 PM: RegisterCoursesPage: INFO: Element found with locator: search-courses and  locatorType: id
+06/15/2020 23:51:12 PM: RegisterCoursesPage: INFO: Sent data on element with locator: search-courses locatorType: id
+06/15/2020 23:51:12 PM: RegisterCoursesPage: INFO: Element found with locator: search-course-button and  locatorType: id
+06/15/2020 23:51:15 PM: RegisterCoursesPage: INFO: Clicked on element with locator: search-course-button locatorType: id
+06/15/2020 23:51:25 PM: RegisterCoursesPage: INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/15/2020 23:51:26 PM: RegisterCoursesPage: INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/15/2020 23:51:27 PM: RegisterCoursesPage: INFO: Element found with locator: enroll-button-top and  locatorType: id
+06/15/2020 23:51:35 PM: RegisterCoursesPage: INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/15/2020 23:51:55 PM: RegisterCoursesPage: INFO: Element not found with locator: CardNumberField-input-wrapper and  locatorType: class
+06/15/2020 23:51:55 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: CardNumberField-input-wrapper locatorType: class
+06/15/2020 23:52:05 PM: RegisterCoursesPage: INFO: Element not found with locator: exp-date and  locatorType: name
+06/15/2020 23:52:05 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: exp-date locatorType: name
+06/15/2020 23:52:15 PM: RegisterCoursesPage: INFO: Element not found with locator: cvc and  locatorType: name
+06/15/2020 23:52:15 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: cvc locatorType: name
+06/15/2020 23:52:25 PM: RegisterCoursesPage: INFO: Element not found with locator: postal and  locatorType: name
+06/15/2020 23:52:25 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: postal locatorType: name
+06/15/2020 23:52:25 PM: RegisterCoursesPage: INFO: Element found with locator: agreed_to_terms_checkbox and  locatorType: id
+06/15/2020 23:52:26 PM: RegisterCoursesPage: INFO: Clicked on element with locator: agreed_to_terms_checkbox locatorType: id
+06/15/2020 23:52:26 PM: RegisterCoursesPage: INFO: Element found with locator: spc__button-text and  locatorType: class
+06/15/2020 23:52:26 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: spc__button-text locatorType: class
+06/15/2020 23:52:46 PM: RegisterCoursesPage: INFO: Element not found with locator: //div[@class='payment-error-box only-on-mobile'] and  locatorType: xpath
+06/15/2020 23:52:46 PM: RegisterCoursesPage: INFO: Element not present with locator: //div[@class='payment-error-box only-on-mobile'] locatorType: xpath
+06/15/2020 23:52:46 PM: TestStatus: ERROR: ### VERIFICATION FAILED :: + Payment Failed Verified
+06/15/2020 23:52:46 PM: TestStatus: INFO: Screenshot save to directory: C:\Users\Lenovo\workspace_python\Automation_Framework\base\../screenshots/Payment Failed Verified.1592245366170.png
+06/15/2020 23:52:46 PM: TestStatus: ERROR: ### VERIFICATION FAILED :: + Payment has failed 
+06/15/2020 23:52:46 PM: TestStatus: INFO: Screenshot save to directory: C:\Users\Lenovo\workspace_python\Automation_Framework\base\../screenshots/Payment has failed .1592245366239.png
+06/15/2020 23:52:46 PM: TestStatus: ERROR: PaymentTest ### TEST FAILED
+06/15/2020 23:54:06 PM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/15/2020 23:54:06 PM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/15/2020 23:54:16 PM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/15/2020 23:54:16 PM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/15/2020 23:54:16 PM: LoginPage: INFO: Sent data on element with locator: user_email locatorType: id
+06/15/2020 23:54:26 PM: LoginPage: INFO: Element found with locator: user_password and  locatorType: id
+06/15/2020 23:54:27 PM: LoginPage: INFO: Sent data on element with locator: user_password locatorType: id
+06/15/2020 23:54:37 PM: LoginPage: INFO: Element found with locator: commit and  locatorType: name
+06/15/2020 23:54:50 PM: LoginPage: INFO: Clicked on element with locator: commit locatorType: name
+06/15/2020 23:55:10 PM: RegisterCoursesPage: INFO: Element not found with locator: Login and  locatorType: link
+06/15/2020 23:55:10 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: Login locatorType: link
+06/15/2020 23:55:30 PM: RegisterCoursesPage: INFO: Element not found with locator: user_email and  locatorType: id
+06/15/2020 23:55:30 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/15/2020 23:55:50 PM: RegisterCoursesPage: INFO: Element not found with locator: user_password and  locatorType: id
+06/15/2020 23:55:50 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/15/2020 23:56:10 PM: RegisterCoursesPage: INFO: Element not found with locator: commit and  locatorType: name
+06/15/2020 23:56:10 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: commit locatorType: name
+06/15/2020 23:56:20 PM: RegisterCoursesPage: INFO: Element found with locator: search-courses and  locatorType: id
+06/15/2020 23:56:20 PM: RegisterCoursesPage: INFO: Sent data on element with locator: search-courses locatorType: id
+06/15/2020 23:56:20 PM: RegisterCoursesPage: INFO: Element found with locator: search-course-button and  locatorType: id
+06/15/2020 23:56:24 PM: RegisterCoursesPage: INFO: Clicked on element with locator: search-course-button locatorType: id
+06/15/2020 23:56:34 PM: RegisterCoursesPage: INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/15/2020 23:56:34 PM: RegisterCoursesPage: INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/15/2020 23:56:44 PM: RegisterCoursesPage: INFO: Element found with locator: enroll-button-top and  locatorType: id
+06/15/2020 23:56:54 PM: RegisterCoursesPage: INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/15/2020 23:57:14 PM: RegisterCoursesPage: INFO: Element not found with locator: CardNumberField-input-wrapper and  locatorType: class
+06/15/2020 23:57:14 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: CardNumberField-input-wrapper locatorType: class
+06/15/2020 23:57:24 PM: RegisterCoursesPage: INFO: Element not found with locator: exp-date and  locatorType: name
+06/15/2020 23:57:24 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: exp-date locatorType: name
+06/15/2020 23:57:34 PM: RegisterCoursesPage: INFO: Element not found with locator: cvc and  locatorType: name
+06/15/2020 23:57:34 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: cvc locatorType: name
+06/15/2020 23:57:44 PM: RegisterCoursesPage: INFO: Element not found with locator: postal and  locatorType: name
+06/15/2020 23:57:44 PM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: postal locatorType: name
+06/15/2020 23:57:44 PM: RegisterCoursesPage: INFO: Element found with locator: agreed_to_terms_checkbox and  locatorType: id
+06/15/2020 23:57:45 PM: RegisterCoursesPage: INFO: Clicked on element with locator: agreed_to_terms_checkbox locatorType: id
+06/15/2020 23:57:45 PM: RegisterCoursesPage: INFO: Element found with locator: spc__button-text and  locatorType: class
+06/15/2020 23:57:45 PM: RegisterCoursesPage: INFO: Cannot click on the element with locator: spc__button-text locatorType: class
+06/15/2020 23:58:05 PM: RegisterCoursesPage: INFO: Element not found with locator: //div[@class='payment-error-box only-on-mobile'] and  locatorType: xpath
+06/15/2020 23:58:05 PM: RegisterCoursesPage: INFO: Element not present with locator: //div[@class='payment-error-box only-on-mobile'] locatorType: xpath
+06/15/2020 23:58:05 PM: TestStatus: ERROR: ### VERIFICATION FAILED :: + Payment Failed Verified
+06/15/2020 23:58:05 PM: TestStatus: INFO: Screenshot save to directory: C:\Users\Lenovo\workspace_python\Automation_Framework\base\../screenshots/Payment Failed Verified.1592245685216.png
+06/15/2020 23:58:05 PM: TestStatus: ERROR: ### VERIFICATION FAILED :: + Payment has failed 
+06/15/2020 23:58:05 PM: TestStatus: INFO: Screenshot save to directory: C:\Users\Lenovo\workspace_python\Automation_Framework\base\../screenshots/Payment has failed .1592245685283.png
+06/15/2020 23:58:05 PM: TestStatus: ERROR: PaymentTest ### TEST FAILED
+06/16/2020 00:39:31 AM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/16/2020 00:39:31 AM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/16/2020 00:39:41 AM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/16/2020 00:39:41 AM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/16/2020 00:39:41 AM: LoginPage: INFO: Sent data on element with locator: user_email locatorType: id
+06/16/2020 00:39:51 AM: LoginPage: INFO: Element found with locator: user_password and  locatorType: id
+06/16/2020 00:39:51 AM: LoginPage: INFO: Sent data on element with locator: user_password locatorType: id
+06/16/2020 00:40:01 AM: LoginPage: INFO: Element found with locator: commit and  locatorType: name
+06/16/2020 00:40:06 AM: LoginPage: INFO: Clicked on element with locator: commit locatorType: name
+06/16/2020 00:40:26 AM: RegisterCoursesPage: INFO: Element not found with locator: Login and  locatorType: link
+06/16/2020 00:40:26 AM: RegisterCoursesPage: INFO: Cannot click on the element with locator: Login locatorType: link
+06/16/2020 00:40:46 AM: RegisterCoursesPage: INFO: Element not found with locator: user_email and  locatorType: id
+06/16/2020 00:40:46 AM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/16/2020 00:41:06 AM: RegisterCoursesPage: INFO: Element not found with locator: user_password and  locatorType: id
+06/16/2020 00:41:06 AM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/16/2020 00:41:26 AM: RegisterCoursesPage: INFO: Element not found with locator: commit and  locatorType: name
+06/16/2020 00:41:26 AM: RegisterCoursesPage: INFO: Cannot click on the element with locator: commit locatorType: name
+06/16/2020 00:41:36 AM: RegisterCoursesPage: INFO: Element found with locator: search-courses and  locatorType: id
+06/16/2020 00:41:37 AM: RegisterCoursesPage: INFO: Sent data on element with locator: search-courses locatorType: id
+06/16/2020 00:41:37 AM: RegisterCoursesPage: INFO: Element found with locator: search-course-button and  locatorType: id
+06/16/2020 00:41:40 AM: RegisterCoursesPage: INFO: Clicked on element with locator: search-course-button locatorType: id
+06/16/2020 00:41:50 AM: RegisterCoursesPage: INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/16/2020 00:41:51 AM: RegisterCoursesPage: INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/16/2020 00:42:01 AM: RegisterCoursesPage: INFO: Element found with locator: enroll-button-top and  locatorType: id
+06/16/2020 00:42:10 AM: RegisterCoursesPage: INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/16/2020 00:46:07 AM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/16/2020 00:46:07 AM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/16/2020 00:46:17 AM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/16/2020 00:46:17 AM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/16/2020 00:46:17 AM: LoginPage: INFO: Sent data on element with locator: user_email locatorType: id
+06/16/2020 00:46:27 AM: LoginPage: INFO: Element found with locator: user_password and  locatorType: id
+06/16/2020 00:46:28 AM: LoginPage: INFO: Sent data on element with locator: user_password locatorType: id
+06/16/2020 00:46:38 AM: LoginPage: INFO: Element found with locator: commit and  locatorType: name
+06/16/2020 00:46:45 AM: LoginPage: INFO: Clicked on element with locator: commit locatorType: name
+06/16/2020 00:47:05 AM: RegisterCoursesPage: INFO: Element not found with locator: Login and  locatorType: link
+06/16/2020 00:47:05 AM: RegisterCoursesPage: INFO: Cannot click on the element with locator: Login locatorType: link
+06/16/2020 00:47:25 AM: RegisterCoursesPage: INFO: Element not found with locator: user_email and  locatorType: id
+06/16/2020 00:47:25 AM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/16/2020 00:47:45 AM: RegisterCoursesPage: INFO: Element not found with locator: user_password and  locatorType: id
+06/16/2020 00:47:45 AM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/16/2020 00:48:05 AM: RegisterCoursesPage: INFO: Element not found with locator: commit and  locatorType: name
+06/16/2020 00:48:05 AM: RegisterCoursesPage: INFO: Cannot click on the element with locator: commit locatorType: name
+06/16/2020 00:48:15 AM: RegisterCoursesPage: INFO: Element found with locator: search-courses and  locatorType: id
+06/16/2020 00:48:15 AM: RegisterCoursesPage: INFO: Sent data on element with locator: search-courses locatorType: id
+06/16/2020 00:48:15 AM: RegisterCoursesPage: INFO: Element found with locator: search-course-button and  locatorType: id
+06/16/2020 00:48:18 AM: RegisterCoursesPage: INFO: Clicked on element with locator: search-course-button locatorType: id
+06/16/2020 00:48:28 AM: RegisterCoursesPage: INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/16/2020 00:48:29 AM: RegisterCoursesPage: INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/16/2020 00:48:39 AM: RegisterCoursesPage: INFO: Element found with locator: enroll-button-top and  locatorType: id
+06/16/2020 00:48:48 AM: RegisterCoursesPage: INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/16/2020 00:52:28 AM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/16/2020 00:52:28 AM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/16/2020 00:52:38 AM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/16/2020 00:52:38 AM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/16/2020 00:52:38 AM: LoginPage: INFO: Sent data on element with locator: user_email locatorType: id
+06/16/2020 00:52:48 AM: LoginPage: INFO: Element found with locator: user_password and  locatorType: id
+06/16/2020 00:52:48 AM: LoginPage: INFO: Sent data on element with locator: user_password locatorType: id
+06/16/2020 00:52:58 AM: LoginPage: INFO: Element found with locator: commit and  locatorType: name
+06/16/2020 00:53:03 AM: LoginPage: INFO: Clicked on element with locator: commit locatorType: name
+06/16/2020 00:53:24 AM: RegisterCoursesPage: INFO: Element not found with locator: Login and  locatorType: link
+06/16/2020 00:53:24 AM: RegisterCoursesPage: INFO: Cannot click on the element with locator: Login locatorType: link
+06/16/2020 00:53:44 AM: RegisterCoursesPage: INFO: Element not found with locator: user_email and  locatorType: id
+06/16/2020 00:53:44 AM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/16/2020 00:54:04 AM: RegisterCoursesPage: INFO: Element not found with locator: user_password and  locatorType: id
+06/16/2020 00:54:04 AM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/16/2020 00:54:24 AM: RegisterCoursesPage: INFO: Element not found with locator: commit and  locatorType: name
+06/16/2020 00:54:24 AM: RegisterCoursesPage: INFO: Cannot click on the element with locator: commit locatorType: name
+06/16/2020 00:54:34 AM: RegisterCoursesPage: INFO: Element found with locator: search-courses and  locatorType: id
+06/16/2020 00:54:34 AM: RegisterCoursesPage: INFO: Sent data on element with locator: search-courses locatorType: id
+06/16/2020 00:54:34 AM: RegisterCoursesPage: INFO: Element found with locator: search-course-button and  locatorType: id
+06/16/2020 00:54:38 AM: RegisterCoursesPage: INFO: Clicked on element with locator: search-course-button locatorType: id
+06/16/2020 00:54:48 AM: RegisterCoursesPage: INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/16/2020 00:54:48 AM: RegisterCoursesPage: INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/16/2020 00:54:58 AM: RegisterCoursesPage: INFO: Element found with locator: enroll-button-top and  locatorType: id
+06/16/2020 00:55:08 AM: RegisterCoursesPage: INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/16/2020 00:55:38 AM: RegisterCoursesPage: INFO: Element not found with locator: //input[@aria-label='Credit or debit card number'] and  locatorType: xpath
+06/16/2020 00:55:38 AM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: //input[@aria-label='Credit or debit card number'] locatorType: xpath
+06/16/2020 01:00:04 AM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/16/2020 01:00:04 AM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/16/2020 01:00:14 AM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/16/2020 01:00:14 AM: LoginPage: INFO: Element found with locator: user_email and  locatorType: id
+06/16/2020 01:00:14 AM: LoginPage: INFO: Sent data on element with locator: user_email locatorType: id
+06/16/2020 01:00:24 AM: LoginPage: INFO: Element found with locator: user_password and  locatorType: id
+06/16/2020 01:00:24 AM: LoginPage: INFO: Sent data on element with locator: user_password locatorType: id
+06/16/2020 01:00:34 AM: LoginPage: INFO: Element found with locator: commit and  locatorType: name
+06/16/2020 01:00:41 AM: LoginPage: INFO: Clicked on element with locator: commit locatorType: name
+06/16/2020 01:01:01 AM: RegisterCoursesPage: INFO: Element not found with locator: Login and  locatorType: link
+06/16/2020 01:01:01 AM: RegisterCoursesPage: INFO: Cannot click on the element with locator: Login locatorType: link
+06/16/2020 01:01:21 AM: RegisterCoursesPage: INFO: Element not found with locator: user_email and  locatorType: id
+06/16/2020 01:01:21 AM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/16/2020 01:01:41 AM: RegisterCoursesPage: INFO: Element not found with locator: user_password and  locatorType: id
+06/16/2020 01:01:41 AM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/16/2020 01:02:01 AM: RegisterCoursesPage: INFO: Element not found with locator: commit and  locatorType: name
+06/16/2020 01:02:01 AM: RegisterCoursesPage: INFO: Cannot click on the element with locator: commit locatorType: name
+06/16/2020 01:02:11 AM: RegisterCoursesPage: INFO: Element found with locator: search-courses and  locatorType: id
+06/16/2020 01:02:11 AM: RegisterCoursesPage: INFO: Sent data on element with locator: search-courses locatorType: id
+06/16/2020 01:02:11 AM: RegisterCoursesPage: INFO: Element found with locator: search-course-button and  locatorType: id
+06/16/2020 01:02:14 AM: RegisterCoursesPage: INFO: Clicked on element with locator: search-course-button locatorType: id
+06/16/2020 01:02:24 AM: RegisterCoursesPage: INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+06/16/2020 01:02:24 AM: RegisterCoursesPage: INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/16/2020 01:02:34 AM: RegisterCoursesPage: INFO: Element found with locator: enroll-button-top and  locatorType: id
+06/16/2020 01:02:44 AM: RegisterCoursesPage: INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/16/2020 01:03:14 AM: RegisterCoursesPage: INFO: Element not found with locator: //input[@aria-label='Credit or debit card number'] and  locatorType: xpath
+06/16/2020 01:03:14 AM: RegisterCoursesPage: INFO: Cannot send data on the element with locator: //input[@aria-label='Credit or debit card number'] locatorType: xpath
+06/16/2020 11:33:59 AM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/16/2020 11:33:59 AM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/16/2020 11:34:19 AM: LoginPage: INFO: Element not found with locator: user_email and  locatorType: id
+06/16/2020 11:42:43 AM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/16/2020 11:42:43 AM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/16/2020 11:43:03 AM: LoginPage: INFO: Element not found with locator: user_email and  locatorType: id
+06/16/2020 11:47:09 AM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/16/2020 11:47:09 AM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/16/2020 11:47:29 AM: LoginPage: INFO: Element not found with locator: user_email and  locatorType: id
+06/16/2020 11:49:40 AM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/16/2020 11:49:40 AM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/16/2020 11:50:00 AM: LoginPage: INFO: Element not found with locator: user_email and  locatorType: id
+06/16/2020 13:17:14 PM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/16/2020 13:17:14 PM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/16/2020 18:12:24 PM: LoginPage: INFO: Element not found with locator: user_email and  locatorType: id
+06/16/2020 18:13:41 PM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/16/2020 18:13:41 PM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/17/2020 00:57:24 AM: LoginPage: INFO: Element found with locator: Login and  locatorType: link
+06/17/2020 00:57:24 AM: LoginPage: INFO: Clicked on element with locator: Login locatorType: link
+06/17/2020 00:57:44 AM: LoginPage: INFO: Element not found with locator: user_email and  locatorType: id
